@@ -1,1 +1,1 @@
-# Cryptography-Lab-BSc-CSIT- This is the Lab work for Bsc csit ,bca, bit student under TU .
+# Cryptography-Lab-BSc-CSIT- This is the Lab work for BSc CSIT ,BCA, BIT, BIM student under TU .
